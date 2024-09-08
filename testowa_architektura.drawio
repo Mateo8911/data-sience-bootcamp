@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TisMGeKmGLcQtXau-ndT-1" value="Testowa architektura na rzecz zajęć" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="TisMGeKmGLcQtXau-ndT-1" value="&lt;p&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;Testowa architektura &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;na rzecz zajęć&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
